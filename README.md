@@ -30,7 +30,7 @@
 3. 名称：刷课助手
 <img width="2560" height="1400" alt="image" src="https://github.com/user-attachments/assets/bf613ed6-3f8d-4b81-8b4a-18eca1d4e2bf" />
 
-4. 网址：粘贴 `javascript:` 代码
+4. 网址：粘贴 `javascript:` 代码，具体倍速请修改代码中的const R=2.5，数字即为倍速
 5. 保存
 
 > ⚠️ 每次刷新页面或重新进入课程，需要再点一次书签。
@@ -42,7 +42,7 @@
 
 1. 打开课程页面，按 `F12` 打开开发者工具
 2. 切换到 **Console（控制台）** 标签
-3. 粘贴 `src/console.js` 里的代码，回车
+3. 粘贴 `src/console.js` 里的代码，回车，具体倍速请修改代码中的 const TARGET_RATE = 2.5，数字即为倍速
 4. 看到 `✅ 已开启 x 倍速伪装` 即成功
 
 > ⚠️ 刷新页面后失效，适合临时应急。
