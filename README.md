@@ -98,7 +98,7 @@ $.ajax({
 
 当前脚本针对以下特征的平台：
 - 视频元素 ID 为 `video`
-- 心跳接口路径包含 `/jjfz/lesson/current_time`
+- 心跳接口路径包含 `/jjfz/lesson/current_time`或`/fzdx/lesson/current_time`
 - 使用 jQuery `$.ajax` 或原生 `XMLHttpRequest` 发送心跳
 
 **适配其他平台**：修改脚本中的 URL 匹配规则（搜索 `current_time` 替换为你平台的进度上报接口），以及视频元素选择器。
