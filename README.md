@@ -42,7 +42,7 @@
 
 1. 打开课程页面，按 `F12` 打开开发者工具
 2. 切换到 **Console（控制台）** 标签
-3. 粘贴 `src/console.js` 里的代码，回车，具体倍速请修改代码中的 const TARGET_RATE = 2.5，数字即为倍速
+3. 积极分子粘贴 `src/jjfz-console.js` 里的代码，发展对象粘贴 `src/fzdx-console.js` 里的代码，回车，具体倍速请修改代码中的 const TARGET_RATE = 2.5，数字即为倍速
 4. 看到 `✅ 已开启 x 倍速伪装` 即成功
 
 > ⚠️ 刷新页面后失效，适合临时应急。
