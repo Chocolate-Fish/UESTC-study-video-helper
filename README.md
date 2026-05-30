@@ -52,6 +52,7 @@
 4. 看到 `✅ 已开启 x 倍速伪装` 即成功
 
 > ⚠️ 刷新页面后失效，适合临时应急。
+<img width="2560" height="1400" alt="image" src="https://github.com/user-attachments/assets/420fc051-56df-4ff8-bcdd-efc09c1fd03b" />
 
 ---
 
