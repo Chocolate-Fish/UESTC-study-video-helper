@@ -4,7 +4,8 @@
 // @version      2.0
 // @description  自动解除暂停限制 + 倍速播放 + 伪造心跳上报
 // @author       You
-// @match        *://*/*
+// @match        *://dxpx.uestc.edu.cn/*
+// @match        *://webvpn.uestc.edu.cn/*
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
