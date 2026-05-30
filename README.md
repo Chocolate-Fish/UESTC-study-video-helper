@@ -48,3 +48,4 @@
 if (player.media.playbackRate != 1) {
     player.media.playbackRate = 1;  // 强制改回
 }
+绕过方式：劫持 video.playbackRate 的 getter，让平台读取时永远得到 1，但底层通过原生 setter 维持真实倍速播放。平台以为你在正常看，实际上你在飞。
