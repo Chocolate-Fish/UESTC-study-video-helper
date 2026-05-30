@@ -30,7 +30,7 @@
 3. 名称：刷课助手
 <img width="2560" height="1400" alt="image" src="https://github.com/user-attachments/assets/bf613ed6-3f8d-4b81-8b4a-18eca1d4e2bf" />
 
-4. 网址：粘贴 `javascript:` 代码，具体倍速请修改代码中的const R=2.5，数字即为倍速
+4. 网址：积极分子粘贴 `jjfz-javascript:` 代码，发展对象粘贴 `fzdx-javascript:` 代码，具体倍速请修改代码中的const R=2.5，数字即为倍速
 5. 保存
 
 > ⚠️ 每次刷新页面或重新进入课程，需要再点一次书签。
