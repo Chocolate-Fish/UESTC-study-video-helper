@@ -23,14 +23,18 @@
 
 ---
 
-### 方式一：书签小工具
+### 方式一：书签小工具（以Chrome浏览器为例）
 
-1. 浏览器书签栏右键 → **添加网页**
-2. 名称：`刷课助手`
-3. 网址/URL：复制 `src/bookmarklet.js` 里的**一整行**代码（以 `javascript:` 开头）
-4. 打开课程页面 → 点击该书签 → 完成
+1. 地址栏输入 chrome://bookmarks/ 回车
+2. 右上角 ⋮（三个点）→ "添加新书签"
+3. 名称：刷课助手
+<img width="2560" height="1400" alt="image" src="https://github.com/user-attachments/assets/bf613ed6-3f8d-4b81-8b4a-18eca1d4e2bf" />
+
+4. 网址：粘贴 `javascript:` 代码
+5. 保存
 
 > ⚠️ 每次刷新页面或重新进入课程，需要再点一次书签。
+<img width="2560" height="1400" alt="image" src="https://github.com/user-attachments/assets/5fe039f4-b66a-47d5-bbe7-105142e9f8e3" />
 
 ---
 
