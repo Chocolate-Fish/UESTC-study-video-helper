@@ -25,7 +25,7 @@
 
 1. 浏览器安装 [Tampermonkey（油猴）](https://www.tampermonkey.net/) 扩展
 2. 点击油猴图标 → **添加新脚本**
-3. 删除默认内容，粘贴 `src/tampermonkey.js` 里的代码
+3. 删除默认内容，积极分子粘贴 `src/JJFZ-tampermonkey.js` 里的代码，发展对象粘贴 `src/FZDX-tampermonkey.js` 里的代码
 4. 按 `Ctrl + S` 保存
 5. 以后打开课程页面**自动生效**，无需任何操作
 
